@@ -1,0 +1,69 @@
+﻿
+
+@model List<TodoItem>
+
+<h5>Todo List</h5>
+
+<table class="table">
+    <tr>
+        <th>
+            ID
+        </th>
+        <th>
+            Title
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Action
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+
+                @if (!item.IsDone)
+                {
+                    @Html.ActionLink("Mark as Done", "MarkAsDone", new { id = item.ID })
+                }
+                else
+                {
+                    <span class="done">Done</span>
+                }
+            </td>
+            @* <td>
+        @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+        </td> *@
+        </tr>
+    }
+
+</table>
+<h5 class="addHeading">Add New Todo Task</h5>
+
+ @using (Html.BeginForm("Create", "Home", FormMethod.Post, new { @class = "todo-form" }))
+    {
+        <div>
+               <div class="inputDiv">
+                <label>Title:</label>
+                <input type="text" name="Title" required style="width: 100%; padding: 5px; border: 1px solid #ccc; border-radius: 5px;" />
+            </div>
+              <div class="inputDiv">
+                <label>Description:</label>
+                <input type="text" name="Description" required style="width: 100%; padding: 5px; border: 1px solid #ccc; border-radius: 5px;" />
+            </div>
+            <input type="submit" value="Add" class="btn submit" />
+        </div>
+    }
+

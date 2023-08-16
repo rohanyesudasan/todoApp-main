@@ -1,0 +1,62 @@
+/Users/babitarawat/Desktop/web/todoApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/babitarawat/Desktop/web/todoApp/bin/Debug/net7.0/appsettings.json
+/Users/babitarawat/Desktop/web/todoApp/bin/Debug/net7.0/todoApp.staticwebassets.runtime.json
+/Users/babitarawat/Desktop/web/todoApp/bin/Debug/net7.0/todoApp
+/Users/babitarawat/Desktop/web/todoApp/bin/Debug/net7.0/todoApp.deps.json
+/Users/babitarawat/Desktop/web/todoApp/bin/Debug/net7.0/todoApp.runtimeconfig.json
+/Users/babitarawat/Desktop/web/todoApp/bin/Debug/net7.0/todoApp.dll
+/Users/babitarawat/Desktop/web/todoApp/bin/Debug/net7.0/todoApp.pdb
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.csproj.AssemblyReference.cache
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.AssemblyInfoInputs.cache
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.AssemblyInfo.cs
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.csproj.CoreCompileInputs.cache
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.RazorAssemblyInfo.cache
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.RazorAssemblyInfo.cs
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/staticwebassets/msbuild.todoApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/staticwebassets/msbuild.build.todoApp.props
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.todoApp.props
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.todoApp.props
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/scopedcss/bundle/todoApp.styles.css
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/scopedcss/projectbundle/todoApp.bundle.scp.css
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.dll
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/refint/todoApp.dll
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.pdb
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/todoApp.genruntimeconfig.cache
+/Users/babitarawat/Desktop/web/todoApp/obj/Debug/net7.0/ref/todoApp.dll
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/bin/Debug/net7.0/appsettings.json
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/bin/Debug/net7.0/todoApp.staticwebassets.runtime.json
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/bin/Debug/net7.0/todoApp
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/bin/Debug/net7.0/todoApp.deps.json
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/bin/Debug/net7.0/todoApp.runtimeconfig.json
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/bin/Debug/net7.0/todoApp.dll
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/bin/Debug/net7.0/todoApp.pdb
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.csproj.AssemblyReference.cache
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.AssemblyInfoInputs.cache
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.AssemblyInfo.cs
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.csproj.CoreCompileInputs.cache
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.RazorAssemblyInfo.cache
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.RazorAssemblyInfo.cs
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/staticwebassets/msbuild.todoApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/staticwebassets/msbuild.build.todoApp.props
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.todoApp.props
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.todoApp.props
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/scopedcss/bundle/todoApp.styles.css
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/scopedcss/projectbundle/todoApp.bundle.scp.css
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.dll
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/refint/todoApp.dll
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.pdb
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/todoApp.genruntimeconfig.cache
+/Users/babitarawat/Desktop/web/untitled folder/todoApp/obj/Debug/net7.0/ref/todoApp.dll
